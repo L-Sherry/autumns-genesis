@@ -4499,6 +4499,7 @@
         "MemoryAttack": [{
             "text": {
                 "en_US": "Charging Memory Bombs...",
+		"fr_FR.UTF-8": "Chargement Bombes de Mémoires...",
                 "ja_JP": "記憶の爆弾を準備中",
                 "langUid": 3
             },

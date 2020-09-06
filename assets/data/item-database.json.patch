@@ -9,12 +9,14 @@
       "customItem": "equip-coquelicot",
       "name": {
         "en_US": "Shikizakura",
+        "fr_FR.UTF-8": "Shikizakura",
         "ja_JP": "四季桜",
         "zh_CN": "四季桜",
         "langUid": 1
       },
       "description": {
         "en_US": "A leaf naginata made from a cherry blossom blooming in autumn's prime.",
+        "fr_FR.UTF-8": "Une feuille naginata fait à partir d'une fleur de cerise poussant sur la primeur d'autumn.",
         "langUid": 2
       },
       "type": "EQUIP",
@@ -55,10 +57,12 @@
       "customItem": "cons-gapple",
       "name": {
         "en_US": "Genesis Apple",
+        "fr_FR.UTF-8": "Pomme de Génèse",
         "langUid": 145
       },
       "description": {
         "en_US": "An opalescent apple pulsing with ancient energy. \\c[2]Heals 25% of max HP\\c[0].",
+        "fr_FR.UTF-8": "Une pomme opalescente scintillant avec de l'énergie ancienne.  \\c[2]Guéris 25% du HP max\\c[0].",
         "langUid": 699
       },
       "type": "CONS",
@@ -93,6 +97,7 @@
       },
       "description": {
         "en_US": "An undying ember that proves mastery over the fiery wrath of \\c[3]\\v[combat.name.heat/megamoth]\\c[0].",
+        "fr_FR.UTF-8": "Une ambre immortelle qui prouve la maitrise de la colère enflamée du \\c[3]\\v[combat.name.heat/megamoth]\\c[0].",
         "langUid": 2139
       },
       "type": "TRADE",
@@ -107,7 +112,8 @@
           "value": {
             "icon": "ENEMY",
             "text": {
-              "en_US": "\\c[3]\\v[combat.name.heat/megamoth]\\c[0]'s Master Trial"
+              "en_US": "\\c[3]\\v[combat.name.heat/megamoth]\\c[0]'s Master Trial",
+              "fr_FR.UTF-8": "Épreuve de Maitrise de \\c[3]\\v[combat.name.heat/megamoth]\\c[0]"
             },
             "type": "ENEMY",
             "value": "heat.megamoth"
@@ -127,10 +133,12 @@
       "customItem": "trade-phantom",
       "name": {
         "en_US": "Phantom's Spark",
+	"fr_FR.UTF-8": "Étincelle du Fantome",
         "langUid": 2138
       },
       "description": {
         "en_US": "A surging spark that proves mastery over the dazzling blitz of \\c[3]\\v[combat.name.jungle/shockboss]\\c[0].",
+	"fr_FR.UTF-8": "Une Étincelle immortelle qui prouve votre maitrise de la foudre surprenante du \\c[3]\\v[combat.name.jungle/shockboss]\\c[0]",
         "langUid": 2139
       },
       "type": "TRADE",
@@ -145,7 +153,8 @@
           "value": {
             "icon": "ENEMY",
             "text": {
-              "en_US": "\\c[3]\\v[combat.name.jungle/shockboss]\\c[0]'s Master Trial"
+              "en_US": "\\c[3]\\v[combat.name.jungle/shockboss]\\c[0]'s Master Trial",
+              "fr_FR.UTF-8": "Épreuve de Maitrise du \\c[3]\\v[combat.name.jungle/shockboss]\\c[0]"
             },
             "type": "ENEMY",
             "value": "jungle.shockboss"
@@ -165,10 +174,12 @@
       "customItem": "trade-blobus",
       "name": {
         "en_US": "Blobus Orb",
+	"fr_FR.UTF-8": "Orbe Blobulaire",
         "langUid": 2138
       },
       "description": {
         "en_US": "A vibrating slimeball that proves mastery over the pressure of \\c[3]\\v[combat.name.jungle/waveboss]\\c[0].",
+	"fr_FR.UTF-8": "Une boule de blob vibrante qui prouve votre maitrise de la pression du \\c[3]\\v[combat.name.jungle/waveboss]\\c[0]",
         "langUid": 2139
       },
       "type": "TRADE",
@@ -183,7 +194,8 @@
           "value": {
             "icon": "ENEMY",
             "text": {
-              "en_US": "\\c[3]\\v[combat.name.jungle/waveboss]\\c[0]'s Master Trial"
+              "en_US": "\\c[3]\\v[combat.name.jungle/waveboss]\\c[0]'s Master Trial",
+              "fr_FR.UTF-8": "Épreuve de Maitrise du \\c[3]\\v[combat.name.jungle/waveboss]\\c[0]"
             },
             "type": "ENEMY",
             "value": "jungle.waveboss"
@@ -203,10 +215,12 @@
       "customItem": "trade-hilikat",
       "name": {
         "en_US": "Ruby Seed",
+	"fr_FR.UTF-8": "Graine de Ruby",
         "langUid": 2138
       },
       "description": {
         "en_US": "A shimmering seed-shaped crystal too beautiful for any Hillkat to hurl.",
+	"fr_FR.UTF-8": "Un crystal luisant en forme de graine trop magnifique pour être lancé par un Hillkat",
         "langUid": 2139
       },
       "type": "TRADE",

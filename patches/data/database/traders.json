@@ -2,6 +2,7 @@
     "arenaCoquelicot": {
         "name": {
             "en_US": "Master Trials Shop",
+            "fr_FR.UTF-8": "Magasin Épreuves du Maitre",
             "langUid": 1
         },
         "order": 1000,

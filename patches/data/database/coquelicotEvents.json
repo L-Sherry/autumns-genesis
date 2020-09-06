@@ -14,7 +14,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Foes, prepare to be rend asunder!"
+                    "en_US": "Foes, prepare to be rend asunder!",
+		    "fr_FR.TF-8": "Ennemis, préparez-vous à être mis en pieces !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -24,7 +25,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "Let's show our true colors in combat!"
+                    "en_US": "Let's show our true colors in combat!",
+		    "fr_FR.UTF-8": "Montrons-leur nos vraies couleurs au combat !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -34,7 +36,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "With us together, this should be a breeze!"
+                    "en_US": "With us together, this should be a breeze!",
+		    "fr_FR.UTF-8": "À nous deux, cela devrait être facile !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -64,7 +67,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Yes, yes! Keep dancing around them like the wind!"
+                    "en_US": "Yes, yes! Keep dancing around them like the wind!",
+		    "fr_FR.UTF-8": "Oui, oui ! Continue de dancer autour d'eux comme le vent !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -74,7 +78,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "I see in you a desire to push the limits of human endurance!"
+                    "en_US": "I see in you a desire to push the limits of human endurance!",
+		    "fr_FR.UTF-8": "Je vois en vous un désir de pousser les limites de l'endurance humaine !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -84,6 +89,7 @@
             }],
             "0_2": [{
                 "message": {
+		    "fr_FR.UTF-8": "C'est là où on commence vraiment à s'amuser !",
                     "en_US": "This is where the fun really begins!"
                 },
                 "type": "SHOW_SIDE_MSG",
@@ -115,7 +121,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "The gusts of combat are really picking up!"
+                    "en_US": "The gusts of combat are really picking up!",
+		    "fr_FR.UTF-8": "Le vent commence à tourner !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -125,7 +132,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "I'm as ready to rip these foes apart as you are!"
+                    "en_US": "I'm as ready to rip these foes apart as you are!",
+		    "fr_FR.UTF-8": "Je suis prête à écorcher ces bestioles autant que toi !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -135,7 +143,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "Leave not an enemy behind!"
+                    "en_US": "Leave not an enemy behind!",
+		    "fr_FR.UTF-8": "Ne laisse aucun ennemi derrière !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -166,7 +175,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Let's stir up some gales in battle!"
+                    "en_US": "Let's stir up some gales in battle!",
+		    "fr_FR.UTF-8": "Allons remuer un peu d'air au combat !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -176,7 +186,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "Warm-ups are over! Let's get to this."
+                    "en_US": "Warm-ups are over! Let's get to this.",
+		    "fr_FR.UTF-8": "Fini les échauffements ! Aller c'est parti."
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -186,7 +197,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "The leaves grow excited in this frenzy!"
+                    "en_US": "The leaves grow excited in this frenzy!",
+		    "fr_FR.UTF-8": "Les feuilles s'agitent dans cette frenesie !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -217,7 +229,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Us spirits don't tire out quickly, but I am surprised to have such an active partner."
+                    "en_US": "Us spirits don't tire out quickly, but I am surprised to have such an active partner.",
+		    "fr_FR.UTF-8": "Nous les ésprits avont de la pêche, mais je suis surpris d'avoir une partenaire aussi active."
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -227,7 +240,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "See? That was a breeze, after all!"
+                    "en_US": "See? That was a breeze, after all!",
+		    "fr_FR.UTF-8": "Tu vois ? C'était qu'un petit coup de vent, après tout."
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -237,7 +251,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "When together, we sure are unstoppable!"
+                    "en_US": "When together, we sure are unstoppable!",
+		    "fr_FR.UTF-8": "À nous deux, plus rien ne nous arrête !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -283,7 +298,8 @@
             }
         }, {
             "message": {
-                "en_US": "Heya! This is a dialogue test."
+                "en_US": "Heya! This is a dialogue test.",
+		"fr_FR.UTF-8": "Coucou ! C'est un test de dialogue."
             },
             "autoContinue": false,
             "type": "SHOW_MSG",
@@ -332,7 +348,8 @@
             }
         }, {
             "message": {
-                "en_US": "You wish to call upon the spirit of autumn for help? Very well."
+                "en_US": "You wish to call upon the spirit of autumn for help? Very well.",
+		"fr_FR.UTF-8": "Vous en appellez à l'aide au ésprits d'autumn ? Très bien."
             },
             "autoContinue": false,
             "type": "SHOW_MSG",
@@ -362,7 +379,8 @@
         "overrideSideMessage": false,
         "event": [{
             "message": {
-                "en_US": "It is only fair that I improve my tools of combat as my skills grow."
+                "en_US": "It is only fair that I improve my tools of combat as my skills grow.",
+		"fr_FR.UTF-8": "C'est tout simplement normal que j'améliore mes outils de combats lorsque mes compétences grandissent."
             },
             "type": "SHOW_SIDE_MSG",
             "person": {
@@ -408,7 +426,8 @@
             }
         }, {
             "message": {
-                "en_US": "Being your companion has been pretty refreshing! I wouldn't mind doing it again."
+                "en_US": "Being your companion has been pretty refreshing! I wouldn't mind doing it again.",
+		"fr_FR.UTF-8": "Être votre compagnion a été très rafraichissant ! Je ne dirais pas non pour recommencer."
             },
             "autoContinue": false,
             "type": "SHOW_MSG",
@@ -445,7 +464,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Oww! Where'd that come from?"
+                    "en_US": "Oww! Where'd that come from?",
+		    "fr_FR.UTF-8": "Ouh ! Ça venait d'où ?"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -455,7 +475,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "Maybe I rushed into this a bit too quickly..."
+                    "en_US": "Maybe I rushed into this a bit too quickly...",
+		    "fr_FR.UTF-8": "Peut-être que je me suis un peu trop précipité..."
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -465,7 +486,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "These enemies are getting a bit annoying!"
+                    "en_US": "These enemies are getting a bit annoying!",
+		    "fr_FR.UTF-8": "Ces ennemis deviennent un peu agaçants !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -495,7 +517,8 @@
             }],
             "0_0": [{
                 "message": {
-                    "en_US": "Us spirits won't give up so easily!"
+                    "en_US": "Us spirits won't give up so easily!",
+		    "fr_FR.UTF-8": "Nous les ésprits, n'abandonnons pas si facilement !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -505,7 +528,8 @@
             }],
             "0_1": [{
                 "message": {
-                    "en_US": "Sorry for making you wait!"
+                    "en_US": "Sorry for making you wait!",
+		    "fr_FR.UTF-8": "Désolé pour t'avoir fait attendre !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {
@@ -515,7 +539,8 @@
             }],
             "0_2": [{
                 "message": {
-                    "en_US": "This time will be the charm!"
+                    "en_US": "This time will be the charm!",
+		    "fr_FR.UTF-8": "Cette fois, ce sera la bonne !"
                 },
                 "type": "SHOW_SIDE_MSG",
                 "person": {

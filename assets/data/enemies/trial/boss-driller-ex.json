@@ -2794,7 +2794,7 @@
             "text": {
                 "en_US": "Shield Recovered",
                 "de_DE": "Schild wiederhergestellt",
-                "fr_FR": "fr_FR",
+                "fr_FR.UTF-8": "Bouclier Rétabli",
                 "langUid": 5,
                 "zh_CN": "护盾已恢复",
                 "ko_KR": "방어막 회복",
@@ -5773,6 +5773,7 @@
         }, {
             "text": {
                 "en_US": "Elimination Protocol Activated",
+		"fr_FR.UTF-8": "Protocole d'Élimination Activé",
                 "ja_JP": "殺害手続きを準備中",
                 "langUid": 5
             },

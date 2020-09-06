@@ -4081,6 +4081,7 @@
                 "thenStep": [{
                     "text": {
                         "en_US": "Incoming Inferno!",
+                        "fr_FR.UTF-8": "L'Enfer Arrive !",
                         "ja_JP": "インフェルノを準備する！",
                         "langUid": 3
                     },
@@ -4094,6 +4095,7 @@
                 "elseStep": [{
                     "text": {
                         "en_US": "Incoming Inferno!",
+                        "fr_FR.UTF-8": "L'Enfer Arrive !",
                         "ja_JP": "インフェルノを準備する！",
                         "langUid": 3
                     },
@@ -4115,6 +4117,7 @@
                 "thenStep": [{
                     "text": {
                         "en_US": "Incoming Inferno!",
+                        "fr_FR.UTF-8": "L'Enfer Arrive !",
                         "ja_JP": "インフェルノを準備する！",
                         "langUid": 3
                     },
@@ -4128,6 +4131,7 @@
                 "elseStep": [{
                     "text": {
                         "en_US": "Incoming Inferno!",
+                        "fr_FR.UTF-8": "L'Enfer Arrive !",
                         "ja_JP": "インフェルノを準備する！",
                         "langUid": 3
                     },
@@ -5786,6 +5790,7 @@
         "WeakShoot": [{
             "text": {
                 "en_US": "Regenerating",
+		"fr_FR.UTF-8": "Regénération",
                 "de_DE": "Regenerieren<<C<<Überprüfen: Beschreibung",
                 "zh_CN": "恢复中",
                 "ja_JP": "再生中",

@@ -84,6 +84,7 @@
                   {
                     "message": {
                       "en_US": "I'm here until Autumn's Terminus gets developed enough to include me in a quest!",
+		      "fr_FR.UTF-8": "Je suis là en attendant que le Terminus d'Autumn soit assez développé pour m'inclure dans une quête !",
                       "langUid": 1
                     },
                     "autoContinue": false,
@@ -96,6 +97,7 @@
                   {
                     "message": {
                       "en_US": "Just to let you know, you can redeem your trophies from the Master Trials in exchange for some powerful weapons here!",
+                      "fr_FR.UTF-8": "Juste au cas où, ici vous pouvez échangez vos trophées des Épreuves de Maitrise contre des armes puissantes juste !",
                       "langUid": 1
                     },
                     "autoContinue": false,
@@ -155,6 +157,7 @@
                           {
                             "message": {
                               "en_US": "Have fun with your new goodies!",
+			      "fr_FR.UTF-8": "Amusez-vous bien avec vos nouveaux jouets !",
                               "langUid": 2
                             },
                             "autoContinue": false,
@@ -167,6 +170,7 @@
                           {
                             "message": {
                               "en_US": "[nods]",
+			      "fr_FR.UTF-8": "[acquiesce]",
                               "langUid": 3,
                               "zh_CN": "[点头]<<A<<[CHANGED 2019/04/16]",
                               "ko_KR": "[끄덕]<<A<<[CHANGED 2019/04/16]",
@@ -190,6 +194,7 @@
                           {
                             "message": {
                               "en_US": "Come back when you've decided!",
+			      "fr_FR.UTF-8": "Revenez lorsque vous serez décidés !",
                               "langUid": 4
                             },
                             "autoContinue": false,
@@ -203,6 +208,7 @@
                             "message": {
                               "en_US": "...",
                               "de_DE": "...",
+			      "fr_FR.UTF-8": "...",
                               "fr_FR": "fr_FR",
                               "langUid": 5,
                               "zh_CN": "...",
@@ -273,6 +279,7 @@
                           {
                             "message": {
                               "en_US": "[nods]",
+			      "fr_FR.UTF-8": "[acquiesce]",
                               "langUid": 3,
                               "zh_CN": "[点头]<<A<<[CHANGED 2019/04/16]",
                               "ko_KR": "[끄덕]<<A<<[CHANGED 2019/04/16]",
@@ -400,6 +407,7 @@
                           {
                             "message": {
                               "en_US": "[nods]",
+			      "fr_FR.UTF-8": "[acquiesce]",
                               "langUid": 3,
                               "zh_CN": "[点头]<<A<<[CHANGED 2019/04/16]",
                               "ko_KR": "[끄덕]<<A<<[CHANGED 2019/04/16]",

@@ -17,6 +17,7 @@
     "boss": true,
     "bossLabel": {
         "en_US": "Whale",
+	"fr_FR.UTF-8": "Baleine",
         "de_DE": "Wal<<C<<Überprüfen: Beschreibung",
         "zh_CN": "鲸",
         "ja_JP": "鯨",
@@ -11339,6 +11340,7 @@
         }, {
             "text": {
                 "en_US": "Overdrive! ATK up!",
+		"fr_FR.UTF-8": "Suractivité ! ATK augmenté !",
                 "langUid": 3
             },
             "mode": "NO_LINE",
@@ -11434,6 +11436,7 @@
         }, {
             "text": {
                 "en_US": "Break!",
+		"fr_FR.UTF-8": "Brisé !",
                 "langUid": 3
             },
             "mode": "NO_LINE",
@@ -11656,6 +11659,7 @@
         }, {
             "text": {
                 "en_US": "DEF up!",
+		"fr_FR.UTF-8": "Défense Augmentée !",
                 "langUid": 3
             },
             "mode": "NO_LINE",
@@ -11934,6 +11938,7 @@
         }, {
             "text": {
                 "en_US": "\\c[3]\\v[entity.attrib.tidalCharge]/5\\c[0] Strength",
+                "fr_fR.UTF-8": "Force \\c[3]\\v[entity.attrib.tidalCharge]/5\\c[0]",
                 "langUid": 3
             },
             "mode": "NO_FILL",
@@ -12255,6 +12260,7 @@
         }, {
             "text": {
                 "en_US": "Charging...",
+                "fr_FR.UTF-8": "Chargement...",
                 "langUid": 3
             },
             "mode": "LINE_FILL",
@@ -12400,6 +12406,7 @@
         }, {
             "text": {
                 "en_US": "\\c[3]Max\\c[0] Strength",
+                "fr_FR.UTF-8": "Force \\c[3]Max\\c[0]",
                 "langUid": 3
             },
             "mode": "NO_LINE",

@@ -48,6 +48,8 @@ import "./js/game/feature/font/font-system-override.js";
 
 import "./js/game/feature/gui/hud/special-party.js";
 
+import "./js/impact/feature/bgm/bgm-autumn-dng.js";
+
 import "./js/game/feature/gui/screen/title-screen-autumn.js";
 
 import "./js/game/feature/map-content/cave-map-style.js";

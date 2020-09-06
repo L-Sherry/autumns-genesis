@@ -1,0 +1,67 @@
+{
+    "labels": {
+        "arena": {
+            "firstClear": "Bonus de Première Réussite !",
+            "timeRemaining": "Temps Restant",
+            "trialClear": "Épreuve Réussie",
+            "trialFail": "Épreuve Échouée",
+            "menu": {
+                "firstClear": "Première Réussite",
+                "trialTimeLimit": "Limite de Temps",
+                "startTrial": "Démarrer l'\\c[3][TRIAL_NAME]\\c[0] ?"
+            },
+            "trialTimeRemaining": "[NUM] secondes restantes"
+        },
+        "combat": {
+            "daze": "Confus"
+        },
+        "menu": {
+            "help": {
+                "arena": {
+                    "titles": {
+                        "trialTimeLimit": "Limite de Temps",
+                        "firstClearBonuses": "Bonus de Première Réussite"
+                    },
+                    "description": {
+                        "trialTimeLimit": "Si non-nul, le combat doit être terminé en moins de ce temps.",
+                        "firstClearBonuses": "Ces items sont gagnés par le joueur en réussissant ce combat pour la première fois."
+                    }
+                }
+            },
+            "status": {
+                "conditions": ["Daze", "Burn", "Chill", "Jolt", "Mark"]
+            },
+            "equip": {
+                "modifier": {
+                    "WIND_MELEE": "Fouet de Vent",
+                    "STATUS_PUNISHER": "Bourreau",
+                    "MOTH_SPECIAL": "Enfer de Flamme",
+                    "BLOB_SPECIAL": "Aqua Vortex",
+                    "PHANTOM_SPECIAL": "Fulgore Maudit",
+                    "DRILLER_SPECIAL": "Cartouches Subzero",
+                    "APE_SPECIAL": "Éclairs Orientals",
+                    "WHALE_SPECIAL": "Baleine Forte",
+                    "ARTIST_SPECIAL": "Arts du Prisme"
+                },
+                "descriptions": {
+                    "COND_EFFECT_HEAT": "Augmente la rapidité pour infliger \\c[3]Brûle\\c[0] et son effet. \\c[3]Brûle\\c[0] cause des dégâts continus selon le HP Max. de la victime.",
+                    "COND_GUARD_HEAT": "Augmente la résistance contre \\c[3]Brûle\\c[0] et contre son effet. \\c[3]Brûle\\c[0] cause des dégâts continus selon votre HP Max.",
+                    "WIND_MELEE": "Booste les attaques C-à-C et leur permet d'infliger \\c[3]Confus\\c[0].  \\c[3]Confus\\c[0] fige la victime sur place pendant un petit moment.",
+                    "STATUS_PUNISHER": "Booste les dégâts causés aux ennemis qui subissent les conditions d'états associés à l'élément de l'attaque.",
+                    "MOTH_SPECIAL": "Permet l'accès à l'Art de Sprint Chaud Niveau 3 \\c[3]Enfer Suprême\\c[0]. \\c[1]Nécessite d'apprendre un Art de Sprint Chaud Niveau 2.\\c[0]",
+                    "BLOB_SPECIAL": "Permet l'accès à l'Art de Défense Onde Niveau 3 \\c[3]Vortex Vitalizant\\c[0]. \\c[1]Nécessite d'apprendre un Art de Défense Onde Niveau 2.\\c[0]",
+                    "PHANTOM_SPECIAL": "Permet l'accès à l'Art de C-à-C Choc Niveau 3 \\c[3]Milles Malédictions\\c[0]. \\c[1]Nécessite d'apprendre un Art de C-à-C Choc Niveau 2.\\c[0]",
+                    "DRILLER_SPECIAL": "Permet l'accès à l'Art de Lancer Froid Niveau 3 \\c[3]Croix Glaciale\\c[0]. \\c[1]Nécessite d'apprendre un Art de Lancer Froid Niveau 2.\\c[0]",
+                    "APE_SPECIAL": "Permet l'accès à l'Art de Défense Choc Niveau 3 \\c[3]Indigniation du Ciel\\c[0]. \\c[1]Nécessite d'apprendre un Art de Défense Choc Niveau 2.\\c[0]",
+                    "WHALE_SPECIAL": "Permet l'accès à l'Art de C-à-C Onde Niveau 3 \\c[3]Presse du Cétacé\\c[0]. \\c[1]Nécessite d'apprendre un Art de C-à-C Onde Niveau 2.\\c[0]",
+                    "ARTIST_SPECIAL": "Permet l'accès à l'Art de Défense Neutre Niveau 3 \\c[3]Palette Joueuse\\c[0]. \\c[1]Nécessite d'apprendre un Art de Défense Neutre Niveau 3.\\c[0]"
+                }
+            },
+            "social": {
+                "classes": {
+                    "SPIRIT": "Ésprit"
+                }
+            }
+        }
+    }
+}

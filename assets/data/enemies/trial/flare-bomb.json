@@ -519,6 +519,7 @@
     "meta": {
         "species": {
             "en_US": "Dangerous Bomb",
+            "fr_FR.UTF-8": "Bombe Dangereuse",
             "langUid": 4
         },
         "category": "MECHA",

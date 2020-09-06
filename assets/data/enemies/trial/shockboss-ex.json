@@ -2911,6 +2911,7 @@
                     "thenStep": [{
                         "text": {
                             "en_US": "Low Static",
+			    "fr_FR.UTF-8": "Staticité Faible",
                             "ja_JP": "低度静電気",
                             "langUid": 3
                         },
@@ -2951,6 +2952,7 @@
                         "thenStep": [{
                             "text": {
                                 "en_US": "Medium Static",
+			        "fr_FR.UTF-8": "Staticité Moyenne",
                                 "ja_JP": "適度静電気",
                                 "langUid": 3
                             },
@@ -2991,6 +2993,7 @@
                             "thenStep": [{
                                 "text": {
                                     "en_US": "High Static",
+				    "fr_FR.UTF-8": "Staticité Élevée",
                                     "ja_JP": "高度静電気",
                                     "langUid": 3
                                 },
@@ -3027,6 +3030,7 @@
                             "elseStep": [{
                                 "text": {
                                     "en_US": "Static Overload!",
+				    "fr_FR.UTF-8": "Surcharge Staticité !",
                                     "ja_JP": "静電気過負荷",
                                     "langUid": 3
                                 },

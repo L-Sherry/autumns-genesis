@@ -17,6 +17,7 @@
     "boss": true,
     "bossLabel": {
         "en_US": "Ape",
+	"fr_FR.UTF-8": "Singe",
         "de_DE": "Affe<<C<<Überprüfen: Beschreibung",
         "zh_CN": "猿",
         "ja_JP": "エイプ",
@@ -13735,6 +13736,7 @@
         }, {
             "text": {
                 "en_US": "Blade Stance",
+		"fr_FR.UTF-8": "Position Lame",
                 "ja_JP": "剣のスタンス",
                 "langUid": 3
             },
@@ -14184,6 +14186,7 @@
         }, {
             "text": {
                 "en_US": "Fist Stance",
+		"fr_FR.UTF-8": "Position Poing",
                 "ja_JP": "拳のスタンス",
                 "langUid": 3
             },
@@ -14398,6 +14401,7 @@
         }, {
             "text": {
                 "en_US": "Cast Stance",
+		"fr_FR.UTF-8": "Position Sort",
                 "ja_JP": "スペルカードのスタンス",
                 "langUid": 3
             },
@@ -15945,6 +15949,7 @@
         }, {
             "text": {
                 "en_US": "Stablizing",
+		"fr_FR.UTF-8": "Stabilisation",
                 "de_DE": "Stabilisieren<<C<<Überprüfen: Beschreibung",
                 "fr_FR": "fr_FR",
                 "zh_CN": "稳定",
